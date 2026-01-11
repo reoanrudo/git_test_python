@@ -1,0 +1,4 @@
+.dotfile
+.DS_store
+*.md
+*test.txt
